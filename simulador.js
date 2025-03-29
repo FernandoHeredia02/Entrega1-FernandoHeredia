@@ -30,7 +30,7 @@ function calcularTotal(idTeclado, cantidad) {
     return totalConDescuento;
 }
 
-// Función principal para ejecutar el simulador
+// Función principal del simulador
 function iniciarSimulador() {
     mostrarTeclados();
 
